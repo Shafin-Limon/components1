@@ -1,0 +1,17 @@
+.card-header{
+	background-color:  #ffb340;
+}
+.btn:not(:disabled):not(.disabled){
+	color: #fff;
+	font-size: 18px;
+	text-align: center;
+}
+h2{
+	color:#b34700;
+	font-size: 35px;
+	padding: 20px 0;
+}
+.panel_group{
+	margin: 20px auto;
+	width: 700px;
+}
